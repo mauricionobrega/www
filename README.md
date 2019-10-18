@@ -6,6 +6,8 @@
 **/
 
 module.exports = {
+  age: 39,
+  career: 22,
   employers: [
     'Software Architect @ Netshoes.com', 
     'Webstore Team Lead @ Walmart.com', 
