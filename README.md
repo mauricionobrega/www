@@ -11,7 +11,7 @@ module.exports = {
   year: 1980,
   children: [
     'Olivia, the girl',
-    'Nina, the cockatiel'
+    'Nina, the cockatiel',
   ],
   employers: [
     'Software Architect @ Netshoes.com', 
