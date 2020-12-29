@@ -6,8 +6,13 @@
 **/
 
 module.exports = {
-  age: 39,
-  career: 22,
+  age: 40,
+  career: 24,
+  year: 1980,
+  children: [
+    'Olivia, the girl',
+    'Nina, the cockatiel'
+  ],
   employers: [
     'Software Architect @ Netshoes.com', 
     'Webstore Team Lead @ Walmart.com', 
